@@ -12,4 +12,4 @@ Currently Linux and MacOS clients are supported, while Windows support is a long
 
 [Join the Gang](https://cobweb-gang.github.io/join)
 
-[Image](./logo.png)
+![Image](./logo.png)
