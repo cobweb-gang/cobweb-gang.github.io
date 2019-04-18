@@ -4,4 +4,9 @@ Presently, the only server in the federation is our minimal test server. The ser
 
 ### Test Server
 IP: 52.42.230.48
+
 Password: default
+
+Location: Oregon, United States
+
+Performance: Weak
