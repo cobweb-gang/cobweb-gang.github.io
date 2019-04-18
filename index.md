@@ -1,4 +1,4 @@
-## Cobweb
+# Cobweb
 
 ![Image](./logo.png)
 
